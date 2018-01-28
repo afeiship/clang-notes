@@ -1,6 +1,9 @@
 # clang-notes
 > C lang notes.
 
+## resources:
++ http://www.runoob.com/cprogramming/c-program-structure.html
+
 ## hello
 ```c
 #include <stdio.h>
